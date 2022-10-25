@@ -1,9 +1,9 @@
 [
-  {"categoryId":"01","categoryName":"Top Enrolled Courses"},
-  {"categoryId":"02","categoryName":"Frontend Development"},
-  {"categoryId":"03","categoryName":"Backend Development"},
-  {"categoryId":"04","categoryName":"Machine Learning"},
-  {"categoryId":"05","categoryName":"Android App Development"},
-  {"categoryId":"06","categoryName":"IT & Networking"},
-  {"categoryId":"07","categoryName":"Blockchain App Development"}
+  {"categoryId":"01","categoryName":"Top Enrolled Courses", "isAdded": false},
+  {"categoryId":"02","categoryName":"Frontend Development", "isAdded": true},
+  {"categoryId":"03","categoryName":"Backend Development", "isAdded": true},
+  {"categoryId":"04","categoryName":"Machine Learning", "isAdded": true},
+  {"categoryId":"05","categoryName":"Android App Development", "isAdded": true},
+  {"categoryId":"06","categoryName":"IT & Networking", "isAdded": true},
+  {"categoryId":"07","categoryName":"Blockchain App Development", "isAdded": true}
 ]
