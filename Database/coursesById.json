@@ -1,0 +1,173 @@
+[
+  {
+    "courseId": "6357b6d66ea010269ca917fc",
+    "title": "Explore JavaScript",
+    "image": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+    "price": "$18.25",
+    "instructor": "Jeannine Flynn",
+    "details": "Become a JavaScript expert with just One course. You will learn JS core concepts (Variable, Object, Array, Condition, loop, Function), ES6 concepts and DOM manipulation",
+    "totalHour": "35 hours",
+    "ratings": 4.8,
+    "enrolled": "455,258",
+    "language": "English",
+    "difficulty": "Beginner",
+    "courseOverview": [
+      "Learn JavaScript from scratch and in great detail - from beginner to advanced",
+      "All core features and concepts you need to know in modern JavaScript development",
+      "Build 5 beautiful real-world projects for your portfolio",
+      "Become job-ready by understanding how JavaScript really works behind the scenes"
+    ]
+  },
+  {
+    "courseId": "6357b6d6fc1a892bf5374790",
+    "title": "Start with HTML, CSS & Bootstrap",
+    "image": "https://www.coursejoiner.com/wp-content/uploads/2021/03/The-Complete-HTML-CSS-Bootstrap-Build-Hands-On-Projects.jpg",
+    "price": "$16.65",
+    "instructor": "Lynne Vaughn",
+    "details": "Learn modern HTML5, CSS3 & Bootstrap and build a stunning website for your portfolio. Includes CSS Flexbox, Grid and Animation",
+    "totalHour": "22 hours",
+    "ratings": 4.5,
+    "enrolled": "318,384",
+    "language": "English",
+    "difficulty": "Beginner",
+    "courseOverview": [
+      "Become a modern and confident HTML and CSS developer, no prior knowledge needed",
+      "Design and build a stunning real-world project for your portfolio from scratch",
+      "Modern, semantic and accessible HTML5",
+      "Modern CSS, including Animation, CSS Flexbox and Grid for layout"
+    ]
+  },
+  {
+    "courseId": "6357b6d63cb0564f8971b12c",
+    "title": "The Modern React Bootcamp (Hooks, Context, Router)",
+    "image": "https://miro.medium.com/max/1200/1*TVd_sNhpc7JDPBHAsAOQZg.jpeg",
+    "price": "$22.75",
+    "instructor": "Jeannine Flynn",
+    "details": "Learn React from the beginning! Including React Router, hooks, context, front-end Stripe & a big project",
+    "totalHour": "54 hours",
+    "ratings": 4.8,
+    "enrolled": "305,577",
+    "language": "English",
+    "difficulty": "Intermediate",
+    "courseOverview": [
+      "The basics of React (props, state, etc)",
+      "React Hooks!",
+      "The new Context API",
+      "React Router and Private Route"
+    ]
+  },
+  {
+    "courseId": "6357b6d6c7a235e8570bdaee",
+    "title": "Python Zero to Hero",
+    "image": "https://www.datocms-assets.com/14946/1590686329-python-analytics-cover.png?auto=format&fit=max&w=1200",
+    "price": "$17.99",
+    "instructor": "Charles Russell",
+    "details": "This course aims to teach everyone the basics of programming computers using Python. Variables & Expressions, Conditional Code, Functions, Loops & Iteration and more will be taught",
+    "totalHour": "42 hours",
+    "ratings": 4.7,
+    "enrolled": "365,606",
+    "language": "English",
+    "difficulty": "Beginner",
+    "courseOverview": [
+      "Have a fundamental understanding of the Python3",
+      "Become a professional Python Developer and get hired",
+      "Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science and so on",
+      "Build some python app to solve real life problem"
+    ]
+  },
+  {
+    "courseId": "6357b6d621e62d867f74ac46",
+    "title": "Python for Data Science and Machine Learning",
+    "image": "https://miro.medium.com/max/1400/1*n4_NMnZmIhJ9Q9r4KDw1ew.png",
+    "price": "$23.25",
+    "instructor": "Bianca Richardson",
+    "details": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow and more",
+    "totalHour": "40 hours",
+    "ratings": 4.8,
+    "enrolled": "321,112",
+    "language": "English",
+    "difficulty": "Advance",
+    "courseOverview": [
+      "Use Python for Data Science and Machine Learning",
+      "Use Spark for Big Data Analysis",
+      "Implement Machine Learning Algorithms",
+      "Learn to use NumPy for Numerical Data"
+    ]
+  },
+  {
+    "courseId": "6357b6d630506ccc8964d1f9",
+    "title": "Basic Java to Complete Android App Development",
+    "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210626220107/Learn-Java-For-Android-App-Development-FREE.png",
+    "price": "$17.45",
+    "instructor": "Meyers Sanders",
+    "details": "Android App Development with Android Studio & Java, boost your android development skills with 7 different Android Apps",
+    "totalHour": "32 hours",
+    "ratings": 4.6,
+    "enrolled": "295,566",
+    "language": "English",
+    "difficulty": "Beginner",
+    "courseOverview": [
+      "Go from a complete beginner - even with no previous programming experience - to a real Android App Developer",
+      "Building real apps and publish them to playstore",
+      "Become a professional Native app developer",
+      "Switch careers and get a job as an Android Developer"
+    ]
+  },
+  {
+    "courseId": "6357b6d6ebd08a332daa5573",
+    "title": "The Complete Backend Bootcamp (Node.js, Express, MongoDB)",
+    "image": "https://miro.medium.com/max/800/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg",
+    "price": "$21.85",
+    "instructor": "Serrano Lee",
+    "details": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
+    "totalHour": "44 hours",
+    "ratings": 4.7,
+    "enrolled": "308,334 students",
+    "language": "English",
+    "difficulty": "Advance",
+    "courseOverview": [
+      "Master the entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver)",
+      "Build a complete, beautiful & real-world application from start to finish (API and server-side rendered website)",
+      "Build a fast, scalable, feature-rich RESTful API (includes filters, sorts, pagination, and much more)",
+      "Learn how Node really works behind the scenes: event loop, blocking vs non-blocking code, streams, modules"
+    ]
+  },
+  {
+    "courseId": "6357b6d6d21e279d8e8745d9",
+    "title": "CCNA: Switching, Routing, Wireless Essentials, Security and More",
+    "image": "https://www.ednotec.com/wp-content/uploads/2020/02/ccna-course-card.png",
+    "price": "$18.55",
+    "instructor": "David Bombal",
+    "details": "The complete course to help you prepare and pass Cisco's newest CCNA exam. Everything you need: Theory and labs",
+    "totalHour": "42 hours",
+    "ratings": 4.5,
+    "enrolled": "255,678",
+    "language": "English",
+    "difficulty": "Beginner",
+    "courseOverview": [
+      "This course is for anyone who wants to attain the Cisco CCNA certification",
+      "Once you complete this course and pass your CCNA exam, you can study towards higher level Cisco certifications",
+      "Explore how routing and switching technologies work in real world environments",
+      "Start a career in networking"
+    ]
+  },
+  {
+    "courseId": "6357b6d64d14bd23d9e2d92f",
+    "title": "Deep Dive on Solidity and BlockChain Technology",
+    "image": "https://i.pinimg.com/736x/f1/e0/50/f1e050b5c914c0080436728efcf7e851.jpg",
+    "price": "$20.65",
+    "instructor": "Mabel Weeks",
+    "details": "Become An Ethereum Blockchain Developer With One Course. Master Solidity, Web3.JS, Truffle, Metamask, Remix & More",
+    "totalHour": "21 hours",
+    "ratings": 4.7,
+    "enrolled": "298,442 students",
+    "language": "English",
+    "difficulty": "Advance",
+    "courseOverview": [
+      "Learn the true purpose and capabilities of Ethereum and Solidity",
+      "Design, test, and deploy secure Smart Contracts",
+      "Build compelling blockchain applications using the Ethereum Blockchain",
+      "Using Ethereum's Core Development Tools"
+    ]
+  }
+]
