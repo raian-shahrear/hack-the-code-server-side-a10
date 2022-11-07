@@ -1,5 +1,6 @@
 [
-  {
+  { 
+    "isAdded": false,
     "courseId": "6357b6d66ea010269ca917fc",
     "title": "Explore JavaScript",
     "image": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
@@ -19,6 +20,7 @@
     ]
   },
   {
+    "isAdded": true,
     "courseId": "6357b6d6fc1a892bf5374790",
     "title": "Start with HTML, CSS & Bootstrap",
     "image": "https://www.coursejoiner.com/wp-content/uploads/2021/03/The-Complete-HTML-CSS-Bootstrap-Build-Hands-On-Projects.jpg",
@@ -38,6 +40,7 @@
     ]
   },
   {
+    "isAdded": false,
     "courseId": "6357b6d63cb0564f8971b12c",
     "title": "The Modern React Bootcamp (Hooks, Context, Router)",
     "image": "https://miro.medium.com/max/1200/1*TVd_sNhpc7JDPBHAsAOQZg.jpeg",
@@ -57,6 +60,7 @@
     ]
   },
   {
+    "isAdded": false,
     "courseId": "6357b6d6c7a235e8570bdaee",
     "title": "Python Zero to Hero",
     "image": "https://www.datocms-assets.com/14946/1590686329-python-analytics-cover.png?auto=format&fit=max&w=1200",
@@ -76,6 +80,7 @@
     ]
   },
   {
+    "isAdded": true,
     "courseId": "6357b6d621e62d867f74ac46",
     "title": "Python for Data Science and Machine Learning",
     "image": "https://miro.medium.com/max/1400/1*n4_NMnZmIhJ9Q9r4KDw1ew.png",
@@ -95,6 +100,7 @@
     ]
   },
   {
+    "isAdded": false,
     "courseId": "6357b6d630506ccc8964d1f9",
     "title": "Basic Java to Complete Android App Development",
     "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210626220107/Learn-Java-For-Android-App-Development-FREE.png",
@@ -114,6 +120,7 @@
     ]
   },
   {
+    "isAdded": true,
     "courseId": "6357b6d6ebd08a332daa5573",
     "title": "The Complete Backend Bootcamp (Node.js, Express, MongoDB)",
     "image": "https://miro.medium.com/max/800/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg",
@@ -133,9 +140,10 @@
     ]
   },
   {
+    "isAdded": true,
     "courseId": "6357b6d6d21e279d8e8745d9",
     "title": "CCNA: Switching, Routing, Wireless Essentials, Security and More",
-    "image": "https://www.ednotec.com/wp-content/uploads/2020/02/ccna-course-card.png",
+    "image": "https://www.imedita.com/wp-content/uploads/2017/07/CCNA-Security.jpg",
     "price": "$18.55",
     "instructor": "David Bombal",
     "details": "The complete course to help you prepare and pass Cisco's newest CCNA exam. Everything you need: Theory and labs",
@@ -152,6 +160,7 @@
     ]
   },
   {
+    "isAdded": true,
     "courseId": "6357b6d64d14bd23d9e2d92f",
     "title": "Deep Dive on Solidity and BlockChain Technology",
     "image": "https://i.pinimg.com/736x/f1/e0/50/f1e050b5c914c0080436728efcf7e851.jpg",
